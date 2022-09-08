@@ -159,11 +159,11 @@ function App() {
           correct: false,
         },
         {
-          text: "gandhi ji",
+          text: "Rajendra prasad ",
           correct: false,
         },
         {
-          text: "Modi ji",
+          text: "Gandhi JI",
           correct: false,
         },
       ],

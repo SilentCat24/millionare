@@ -53,7 +53,7 @@ export default function Trivia({
         //   setQuestionNumber((prev) => prev + 1);
         //   setSelectedAnswer(null);
         // }, 1000);
-      } else {
+      } else if (questionNumber >= 2) {
         // wrongAnswer();
         delay(1000, () => {
           setTimeOut(true);
