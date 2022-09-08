@@ -67,7 +67,7 @@ function App() {
           correct: false,
         },
         {
-          text: "Denzel Washington",
+          text: "D Washington",
           correct: false,
         },
         {
@@ -128,7 +128,7 @@ function App() {
       question: "Who is ex-prsident of America",
       answers: [
         {
-          text: "Joe Bide",
+          text: "Joe Biden",
           correct: false,
         },
         {
